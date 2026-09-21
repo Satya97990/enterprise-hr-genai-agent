@@ -1,0 +1,17 @@
+# Python caches
+__pycache__/
+*.pyc
+venv/
+
+# Environment variables
+.env
+
+# Model weights
+models/
+*.bin
+*.safetensors
+*.pt
+
+# OS generated files
+.DS_Store
+Thumbs.db

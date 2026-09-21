@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00034",
+    "first_name": "Employee_34_First",
+    "last_name": "Employee_34_Last",
+    "professional_details": {
+        "designation": "Associate Analyst",
+        "department": "Tax",
+        "location": "Bengaluru - Whitefield",
+        "date_of_joining": "2025-05-04",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 9,
+        "sick_leave": 11,
+        "casual_leave": 3
+    },
+    "compensation": {
+        "base_salary_inr": 654462,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-5061"
+        }
+    ]
+}

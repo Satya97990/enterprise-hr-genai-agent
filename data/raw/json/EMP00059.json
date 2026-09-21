@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00059",
+    "first_name": "Employee_59_First",
+    "last_name": "Employee_59_Last",
+    "professional_details": {
+        "designation": "Associate Analyst",
+        "department": "Audit",
+        "location": "Bengaluru - Outer Ring Road",
+        "date_of_joining": "2026-04-07",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 16,
+        "sick_leave": 11,
+        "casual_leave": 4
+    },
+    "compensation": {
+        "base_salary_inr": 676578,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-8940"
+        }
+    ]
+}

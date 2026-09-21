@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00047",
+    "first_name": "Employee_47_First",
+    "last_name": "Employee_47_Last",
+    "professional_details": {
+        "designation": "Senior Analyst",
+        "department": "Risk Advisory",
+        "location": "Mumbai",
+        "date_of_joining": "2025-03-27",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 21,
+        "sick_leave": 9,
+        "casual_leave": 6
+    },
+    "compensation": {
+        "base_salary_inr": 1617254,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-2348"
+        }
+    ]
+}

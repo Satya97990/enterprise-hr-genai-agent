@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00070",
+    "first_name": "Employee_70_First",
+    "last_name": "Employee_70_Last",
+    "professional_details": {
+        "designation": "Associate Analyst",
+        "department": "Consulting",
+        "location": "Bengaluru - Whitefield",
+        "date_of_joining": "2023-04-15",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 19,
+        "sick_leave": 9,
+        "casual_leave": 5
+    },
+    "compensation": {
+        "base_salary_inr": 702636,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-5814"
+        }
+    ]
+}

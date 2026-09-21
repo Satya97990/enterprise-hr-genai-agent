@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00046",
+    "first_name": "Employee_46_First",
+    "last_name": "Employee_46_Last",
+    "professional_details": {
+        "designation": "Senior Analyst",
+        "department": "Risk Advisory",
+        "location": "Bengaluru - Outer Ring Road",
+        "date_of_joining": "2024-07-04",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 3,
+        "sick_leave": 3,
+        "casual_leave": 4
+    },
+    "compensation": {
+        "base_salary_inr": 1488647,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-3914"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00037",
+    "first_name": "Employee_37_First",
+    "last_name": "Employee_37_Last",
+    "professional_details": {
+        "designation": "Senior Analyst",
+        "department": "Tax",
+        "location": "Mumbai",
+        "date_of_joining": "2025-10-14",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 5,
+        "sick_leave": 1,
+        "casual_leave": 7
+    },
+    "compensation": {
+        "base_salary_inr": 1221004,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-2270"
+        }
+    ]
+}

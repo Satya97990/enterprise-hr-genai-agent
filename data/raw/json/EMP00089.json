@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00089",
+    "first_name": "Employee_89_First",
+    "last_name": "Employee_89_Last",
+    "professional_details": {
+        "designation": "Associate Analyst",
+        "department": "Internal IT",
+        "location": "Gurugram",
+        "date_of_joining": "2023-10-13",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 10,
+        "sick_leave": 1,
+        "casual_leave": 4
+    },
+    "compensation": {
+        "base_salary_inr": 692197,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-5497"
+        }
+    ]
+}

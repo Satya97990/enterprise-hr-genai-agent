@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00036",
+    "first_name": "Employee_36_First",
+    "last_name": "Employee_36_Last",
+    "professional_details": {
+        "designation": "Director",
+        "department": "Risk Advisory",
+        "location": "Bengaluru - Whitefield",
+        "date_of_joining": "2023-08-08",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 7,
+        "sick_leave": 0,
+        "casual_leave": 5
+    },
+    "compensation": {
+        "base_salary_inr": 3785187,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-3457"
+        }
+    ]
+}

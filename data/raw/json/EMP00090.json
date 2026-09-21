@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00090",
+    "first_name": "Employee_90_First",
+    "last_name": "Employee_90_Last",
+    "professional_details": {
+        "designation": "Senior Analyst",
+        "department": "Internal IT",
+        "location": "Bengaluru - Whitefield",
+        "date_of_joining": "2023-07-05",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 2,
+        "sick_leave": 12,
+        "casual_leave": 1
+    },
+    "compensation": {
+        "base_salary_inr": 1782155,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-7136"
+        }
+    ]
+}

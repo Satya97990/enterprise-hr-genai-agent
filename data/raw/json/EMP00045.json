@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00045",
+    "first_name": "Employee_45_First",
+    "last_name": "Employee_45_Last",
+    "professional_details": {
+        "designation": "Director",
+        "department": "Tax",
+        "location": "Bengaluru - Outer Ring Road",
+        "date_of_joining": "2024-03-12",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 17,
+        "sick_leave": 10,
+        "casual_leave": 0
+    },
+    "compensation": {
+        "base_salary_inr": 3986245,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-1393"
+        }
+    ]
+}

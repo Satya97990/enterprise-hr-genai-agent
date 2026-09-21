@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00039",
+    "first_name": "Employee_39_First",
+    "last_name": "Employee_39_Last",
+    "professional_details": {
+        "designation": "Analyst",
+        "department": "Consulting",
+        "location": "Mumbai",
+        "date_of_joining": "2022-10-17",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 21,
+        "sick_leave": 3,
+        "casual_leave": 6
+    },
+    "compensation": {
+        "base_salary_inr": 801527,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-4019"
+        }
+    ]
+}

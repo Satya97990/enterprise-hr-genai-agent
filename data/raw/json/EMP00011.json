@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00011",
+    "first_name": "Employee_11_First",
+    "last_name": "Employee_11_Last",
+    "professional_details": {
+        "designation": "Associate Analyst",
+        "department": "Risk Advisory",
+        "location": "Gurugram",
+        "date_of_joining": "2024-02-10",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 11,
+        "sick_leave": 6,
+        "casual_leave": 6
+    },
+    "compensation": {
+        "base_salary_inr": 699955,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-3368"
+        }
+    ]
+}

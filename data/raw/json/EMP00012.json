@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00012",
+    "first_name": "Employee_12_First",
+    "last_name": "Employee_12_Last",
+    "professional_details": {
+        "designation": "Senior Analyst",
+        "department": "Risk Advisory",
+        "location": "Gurugram",
+        "date_of_joining": "2023-12-26",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 3,
+        "sick_leave": 9,
+        "casual_leave": 5
+    },
+    "compensation": {
+        "base_salary_inr": 1418121,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-1267"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00020",
+    "first_name": "Employee_20_First",
+    "last_name": "Employee_20_Last",
+    "professional_details": {
+        "designation": "Analyst",
+        "department": "Internal IT",
+        "location": "Gurugram",
+        "date_of_joining": "2024-01-14",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 20,
+        "sick_leave": 4,
+        "casual_leave": 2
+    },
+    "compensation": {
+        "base_salary_inr": 993715,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-5191"
+        }
+    ]
+}

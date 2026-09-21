@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00063",
+    "first_name": "Employee_63_First",
+    "last_name": "Employee_63_Last",
+    "professional_details": {
+        "designation": "Director",
+        "department": "Audit",
+        "location": "Mumbai",
+        "date_of_joining": "2023-12-12",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 8,
+        "sick_leave": 11,
+        "casual_leave": 6
+    },
+    "compensation": {
+        "base_salary_inr": 4498253,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-7407"
+        }
+    ]
+}

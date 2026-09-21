@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00064",
+    "first_name": "Employee_64_First",
+    "last_name": "Employee_64_Last",
+    "professional_details": {
+        "designation": "Manager",
+        "department": "Internal IT",
+        "location": "Mumbai",
+        "date_of_joining": "2022-10-16",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 16,
+        "sick_leave": 5,
+        "casual_leave": 7
+    },
+    "compensation": {
+        "base_salary_inr": 2865003,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-7780"
+        }
+    ]
+}

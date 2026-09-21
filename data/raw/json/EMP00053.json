@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00053",
+    "first_name": "Employee_53_First",
+    "last_name": "Employee_53_Last",
+    "professional_details": {
+        "designation": "Senior Analyst",
+        "department": "Tax",
+        "location": "Bengaluru - Whitefield",
+        "date_of_joining": "2022-09-23",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 3,
+        "sick_leave": 1,
+        "casual_leave": 3
+    },
+    "compensation": {
+        "base_salary_inr": 1742283,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-9845"
+        }
+    ]
+}

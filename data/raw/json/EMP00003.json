@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00003",
+    "first_name": "Employee_3_First",
+    "last_name": "Employee_3_Last",
+    "professional_details": {
+        "designation": "Manager",
+        "department": "Internal IT",
+        "location": "Bengaluru - Whitefield",
+        "date_of_joining": "2025-01-29",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 10,
+        "sick_leave": 11,
+        "casual_leave": 5
+    },
+    "compensation": {
+        "base_salary_inr": 1985645,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-4595"
+        }
+    ]
+}

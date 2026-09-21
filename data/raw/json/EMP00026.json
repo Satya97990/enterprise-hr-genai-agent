@@ -1,0 +1,28 @@
+{
+    "employee_id": "EMP00026",
+    "first_name": "Employee_26_First",
+    "last_name": "Employee_26_Last",
+    "professional_details": {
+        "designation": "Manager",
+        "department": "Consulting",
+        "location": "Bengaluru - Outer Ring Road",
+        "date_of_joining": "2023-06-09",
+        "employment_status": "Active"
+    },
+    "leave_balances": {
+        "privilege_leave": 1,
+        "sick_leave": 9,
+        "casual_leave": 3
+    },
+    "compensation": {
+        "base_salary_inr": 2931382,
+        "provident_fund_tier": "Standard 12%",
+        "gratuity_eligible": false
+    },
+    "assets_assigned": [
+        {
+            "asset_type": "Laptop",
+            "asset_tag": "LT-8409"
+        }
+    ]
+}
