@@ -28,7 +28,7 @@ def build_hr_agent():
     print(f"Loading FAISS index from: {faiss_path}")
     embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
     vector_store = FAISS.load_local(faiss_path, embeddings, allow_dangerous_deserialization=True)
-    retriever = vector_store.as_retriever(search_kwargs={"k": 2})
+    retriever = vector_store.as_retriever(search_kwargs={"k": 6})
 
     print(f"--- 2. Loading DPO Model from: {model_path} ---")
     tokenizer = AutoTokenizer.from_pretrained(model_path)
